@@ -1,0 +1,60 @@
+h1 {
+  color: #46a358;
+  text-align: center;
+}
+
+a[href] {
+  color: black;
+}
+
+/* REGISTER */
+
+a[href]#hrefINlogin {
+  color: black;
+}
+/* REGISTER */
+
+#chapter {
+  text-align: center;
+}
+
+span {
+  color: black;
+}
+
+input {
+  width: 300px;
+  height: 30px;
+}
+
+p {
+  width: 300px;
+  margin: auto;
+}
+
+button {
+  width: 300px;
+  height: 40px;
+}
+
+#btn {
+  background-color: #46a358;
+  color: whitesmoke;
+  margin: auto;
+  width: 300px;
+  height: 40px;
+}
+
+#AfterHR {
+  width: 300px;
+  text-align: center;
+}
+
+img [src] {
+  height: auto;
+  width: 20;
+}
+
+/* -------------------login page start---------------------- */
+
+/* -------------------login page end---------------------- */
